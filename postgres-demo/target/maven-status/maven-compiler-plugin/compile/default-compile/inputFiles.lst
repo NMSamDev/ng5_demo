@@ -1,0 +1,9 @@
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/nomanchesam/Documentos/Tec de Monterrey/9no SEMESTRE/Adm de proyectos de ing sw/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
